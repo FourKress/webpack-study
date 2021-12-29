@@ -1,0 +1,9 @@
+{
+  "name": "webpack-study",
+  "version": "1.0.0",
+  "description": "学习webpack",
+  "main": "index.js",
+  "author": "wudong",
+  "license": "MIT",
+  "private": false
+}
